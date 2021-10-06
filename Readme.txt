@@ -1,1 +1,1 @@
-sasas
+Having to write multiple emails for different responses to various entities and organizations is a cumbersome task. There are no standard responses and a lot variation which may lead to error or mistakes in responding. The objective was to create an email template search engine to prompt you with standard email templates to use for responding. The task was completed by getting the nearest email template required based on keywords specified by the user using NLP. The data for the same was collected by web scraping.
